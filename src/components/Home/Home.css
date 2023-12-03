@@ -1,0 +1,13 @@
+.service-text{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.service-text:hover{
+    color: black;
+}
+.service-design{
+    border: 3px solid gray;
+    padding: 20px 30px;
+}
+

@@ -1,0 +1,28 @@
+.header-text{
+    text-decoration: none;
+    color: azure;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.header-text:hover{
+    color: rgb(255, 255, 255);
+    padding: 3px 10px;
+    background-color: rgb(64, 143, 208);
+    border: none;
+    border-radius: 5px;
+}
+.header-position{
+padding-top: 15px;
+}
+.header-design{
+    background-color: rgb(186, 54, 96);
+    height: 95px;
+}
+.site-name{
+    color: rgb(0, 224, 224);
+}
+.site-name:hover{
+    color: azure;
+}

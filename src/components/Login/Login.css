@@ -1,0 +1,25 @@
+.button-design{
+    border: none;
+    margin-top: 15px;
+    padding: 3px 10px;
+    background-color: cadetblue;
+    color: azure;
+    border-radius: 5px;
+}
+.button-design:hover{
+    background-color: rgb(183, 53, 83);
+}
+.border-container{
+    border: 3px solid gray;
+}
+.form-submit{
+    border: none;
+    cursor: pointer;
+    padding: 3px 30px;
+    background-color: cornflowerblue;
+    color: azure;
+    border-radius: 5px;
+}
+.form-submit:hover{
+    color: black;
+}

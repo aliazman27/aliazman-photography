@@ -1,0 +1,11 @@
+.form-submit{
+    border: none;
+    cursor: pointer;
+    padding: 3px 30px;
+    background-color: cornflowerblue;
+    color: azure;
+    border-radius: 5px;
+}
+.form-submit:hover{
+    color: black;
+}
